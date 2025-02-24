@@ -1,0 +1,14 @@
+../Core/Src/main.c:121:7:sigmoid	1
+../Core/Src/main.c:128:7:compute_pid	1
+../Core/Src/main.c:143:6:update_pid_gains	1
+../Core/Src/main.c:172:6:process_uart_data	3
+../Core/Src/main.c:184:6:set_pwm	3
+../Core/Src/main.c:191:6:set_direction	2
+../Core/Src/main.c:207:5:main	4
+../Core/Src/main.c:296:6:SystemClock_Config	3
+../Core/Src/main.c:344:13:MX_TIM3_Init	4
+../Core/Src/main.c:393:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:426:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:459:13:MX_GPIO_Init	1
+../Core/Src/main.c:502:6:HAL_UART_RxCpltCallback	4
+../Core/Src/main.c:522:6:Error_Handler	1

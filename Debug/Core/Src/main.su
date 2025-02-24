@@ -1,0 +1,14 @@
+../Core/Src/main.c:121:7:sigmoid	16	static
+../Core/Src/main.c:128:7:compute_pid	24	static
+../Core/Src/main.c:143:6:update_pid_gains	40	static
+../Core/Src/main.c:172:6:process_uart_data	16	static
+../Core/Src/main.c:184:6:set_pwm	16	static
+../Core/Src/main.c:191:6:set_direction	16	static
+../Core/Src/main.c:207:5:main	8	static
+../Core/Src/main.c:296:6:SystemClock_Config	88	static
+../Core/Src/main.c:344:13:MX_TIM3_Init	48	static
+../Core/Src/main.c:393:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:426:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:459:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:502:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:522:6:Error_Handler	4	static,ignoring_inline_asm
